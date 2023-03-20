@@ -1,6 +1,11 @@
 ### Hello & Welcome 🍻
 
-- 🔭 I’m currently working on a Proof-Of-Attendance Protocol (POAP) NFT Portal for Mercedes-Benz
+- 🔭 I’m currently working on a Proof-Of-Concept product utilizing Chainlink Functions, Automation and VRFs at Altonomy (Vega Solutions)
+- 🌱 Other projects I'm working on include:
+    -  Vital Vision: A Virtual Reality solution for Stroke Rehabilitation
+    -  Personal Web Portfolio: A React - Next - Tailwind web portfolio
+- 💡 What I do for fun
+    - Building data visualisations with Tableau & D3 (See more here: [Tableau Public](https://public.tableau.com/app/profile/justin2786))
 - 😄 Pronouns: He/Him
 
 ### Technologies I have worked with:
