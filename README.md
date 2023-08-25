@@ -1,7 +1,7 @@
 ### Hello & Welcome 🍻
 
-- 🔭 I’m currently working on a Proof-Of-Concept product utilizing Chainlink Functions, Automation and VRFs at Altonomy (Vega Solutions)
-- 🌱 Other projects I'm working on include:
+- 🔭 Blockchain Developer @ Range Protocol | Vega Solutions
+- 🌱 Other projects
     -  Vital Vision: A Virtual Reality solution for Stroke Rehabilitation
     -  Personal Web Portfolio: A React - Next - Tailwind web portfolio
 - 💡 What I do for fun
@@ -17,6 +17,7 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 Polygon
 Hardhat
