@@ -35,7 +35,7 @@ Hardhat
 
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
-
+![](https://komarev.com/ghpvc/?username=justgnoh)
 
 <!--
 **justgnoh/justgnoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
