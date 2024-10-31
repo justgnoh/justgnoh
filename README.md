@@ -1,9 +1,6 @@
 ### Hello & Welcome 🍻
 
-- 🔭 Blockchain Developer @ Range Protocol | Vega Solutions
-- 🌱 Other projects
-    -  Vital Vision: A Virtual Reality solution for Stroke Rehabilitation
-    -  Personal Web Portfolio: A React - Next - Tailwind web portfolio
+- 🔭 Blockchain Developer
 - 💡 What I do for fun
     - Building data visualisations with Tableau & D3 (See more here: [Tableau Public](https://public.tableau.com/app/profile/justin2786))
 - 😄 Pronouns: He/Him
